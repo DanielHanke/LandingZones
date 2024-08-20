@@ -41,16 +41,16 @@ const coords_1 =
       ];
 const coords_2 =
       [
-          {"condition":"OK","x":"-89","y":"46","distance":"2","fl":"18","Active":"TRUE","name":"Vesnice: Senith"}, // EVOLUCION: 58 58 58 58 58
+          {"condition":"OK","x":"-89","y":"46","distance":"2.00","fl":"18","Active":"TRUE","name":"Vesnice: Senith"}, // EVOLUCION: 58 58 58 58 58
           {"condition":"OK","x":"-90","y":"42","distance":"2.24","fl":"10","Active":"TRUE","name":"Villaggio di Mannaro"}, // EVOLUCION: 10 10 10 10 10
           {"condition":"OK","x":"-87","y":"43","distance":"2.24","fl":"10","Active":"TRUE","name":"Rorschach`s village"}, // EVOLUCION: 16 16 16 16 16
-          {"condition":"OK","x":"-85","y":"44","distance":"4","fl":"18","Active":"TRUE","name":"`Your Grave!"}, // EVOLUCION: 11 11 11 11 11
+          {"condition":"OK","x":"-85","y":"44","distance":"4.00","fl":"18","Active":"TRUE","name":"`Your Grave!"}, // EVOLUCION: 11 11 11 11 11
           {"condition":"OK","x":"-85","y":"42","distance":"4.47","fl":"10","Active":"TRUE","name":"Tepeli Köyü"}, // EVOLUCION: 34 34 34 34 34
           {"condition":"OK","x":"-87","y":"39","distance":"5.39","fl":"10","Active":"TRUE","name":"salimsins Köyü"}, // EVOLUCION: 14 14 14 14 14
           {"condition":"OK","x":"-93","y":"40","distance":"5.66","fl":"10","Active":"TRUE","name":"Greendisgood`s village"}, // EVOLUCION: 12 12 12 12 12
           {"condition":"OK","x":"-85","y":"48","distance":"5.66","fl":"10","Active":"FALSE","name":"قرية Florence"}, // EVOLUCION: 85 85 85 85 85
           {"condition":"OK","x":"-93","y":"48","distance":"5.66","fl":"10","Active":"TRUE","name":"Kumi`s village"}, // EVOLUCION: 12 12 12 12 12
-          {"condition":"OK","x":"-95","y":"44","distance":"6","fl":"10","Active":"TRUE","name":"Trow`s village"}, // EVOLUCION: 10 10 10 10 10
+          {"condition":"OK","x":"-95","y":"44","distance":"6.00","fl":"10","Active":"TRUE","name":"Trow`s village"}, // EVOLUCION: 10 10 10 10 10
           {"condition":"OK","x":"-90","y":"37","distance":"7.07","fl":"13","Active":"TRUE","name":"Osada: Testo"}, // EVOLUCION: 13 13 13 13 13
           {"condition":"OK","x":"-90","y":"51","distance":"7.07","fl":"10","Active":"TRUE","name":"Zahid Köyü"}, // EVOLUCION: 15 15 15 15 15
           {"condition":"OK","x":"-83","y":"48","distance":"7.21","fl":"10","Active":"TRUE","name":"Tavyahs Landsby"}, // EVOLUCION: 12 12 12 12 12
