@@ -79,13 +79,13 @@ const coords_2 =
           {"x":"-86","y":"55","distance":"11.4","fl":"12","condition":"--","Active":"TRUE","name":"15323`s village"},  // EVOLUCION: 12 12 12 12 12
           {"x":"-78","y":"40","distance":"11.7","fl":"12","condition":"--","Active":"TRUE","name":"Gemmy`s village"},  // EVOLUCION: 12 12 12 12 12
           {"x":"-84","y":"55","distance":"12.08","fl":"12","condition":"--","Active":"TRUE","name":"قرية Mohamed"},  // EVOLUCION: 12 12 12 12 12
-          {"x":"-99","y":"37","distance":"12.21","fl":"15","condition":"--","Active":"TRUE","name":"הכפר של noampor"},  // EVOLUCION: 15 15 15 15 15
-          {"x":"-79","y":"37","distance":"12.21","fl":"13","condition":"--","Active":"TRUE","name":"ulasbjk Köyü"},  // EVOLUCION: 13 13 13 13 13
+          {"condition":"--","x":"-99","y":"37","distance":"12.21","fl":"10","Active":"TRUE","name":"הכפר של noampor"},  // EVOLUCION: 15 15 15 15 15
+          {"condition":"OK","x":"-79","y":"37","distance":"12.21","fl":"10","Active":"TRUE","name":"ulasbjk Köyü"},  // EVOLUCION: 13 13 13 13 13
           {"condition":"OK","x":"-92","y":"56","distance":"12.37","fl":"10","Active":"TRUE","name":"innsmouthsailor`s village"}, // EVOLUCION: 35 35 35 35 +10 25
           {"x":"-77","y":"47","distance":"12.37","fl":"289","condition":"--","Active":"FALSE","name":"putri"},  // EVOLUCION: 289 289 289 289 289
-          {"condition":"OK","x":"-100","y":"38","distance":"12.53","fl":"10","Active":"TRUE","name":"Baal`s village"}, // EVOLUCION: 11 11 11 11 11
-          {"condition":"OK","x":"-93","y":"32","distance":"12.65","fl":"17","Active":"TRUE","name":"dabba`s village"}, // EVOLUCION: 17 17 17 17 17
-          {"x":"-85","y":"32","distance":"12.65","fl":"10","condition":"--","Active":"TRUE","name":"feco76 faluja"}, // EVOLUCION: 12 12 12 12 12
-          {"condition":"OK","x":"-82","y":"55","distance":"13.04","fl":"15","Active":"TRUE","name":"Osada: Wrex"}, // EVOLUCION: 15 15 15 15
-          {"condition":"OK","x":"-83","y":"56","distance":"13.42","fl":"10","Active":"TRUE","name":"ex300`s village"}, // EVOLUCION: 11 11 11 11 11
+          {"condition":"OK","x":"-100","y":"38","distance":"12.53","fl":"10","Active":"TRUE","name":"Baal`s village"},// EVOLUCION: 11 11 11 11 11
+          {"condition":"OK","x":"-93","y":"32","distance":"12.65","fl":"17","Active":"TRUE","name":"dabba`s village"},// EVOLUCION: 17 17 17 17 17
+          {"condition":"OK","x":"-85","y":"32","distance":"12.65","fl":"10","Active":"TRUE","name":"feco76 faluja"},// EVOLUCION: 12 12 12 12 12
+          {"condition":"OK","x":"-82","y":"55","distance":"13.04","fl":"15","Active":"TRUE","name":"Osada: Wrex"},// EVOLUCION: 15 15 15 15
+          {"condition":"OK","x":"-83","y":"56","distance":"13.42","fl":"10","Active":"TRUE","name":"ex300`s village"},// EVOLUCION: 11 11 11 11 11
       ];
