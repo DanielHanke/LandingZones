@@ -1,22 +1,3 @@
-var travian_server = "https://ts7.x1.international.travian.com"
-
-var EntrenarLegionario = true;
-var EntrenarPretoriano = false;
-var EntrenarImperano = false;
-var EntrenarLegati = false;
-var EntrenarImperatoris = false;
-
-var DejameLegionarios = false;
-var DejameImperanos = false;
-var DejameEquitesImperatoris = false;
-var DejameEquitesCaesaris = false;
-
-
-var sleepBase = 16500;
-
-var sendAttacks = true;
-var attackList = 2;
-
 const coords_1 =
       [
           {"x":"-77","y":"53","distance":" 2.24","fl":"10","condition":"OK","Active":"TRUE","name":"Osada: Ptolemeusz"}, // EVOLUCION: 33 33 +1 32 32 32
