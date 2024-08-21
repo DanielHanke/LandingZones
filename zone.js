@@ -4,7 +4,6 @@ const coords_1 =
           {"x":"-79","y":"49","distance":" 3.61","fl":"10","condition":"OK","Active":"TRUE","name":"Crow Köyü"}, // EVOLUCION: 28 28 28 28 28
           {"x":"-73","y":"54","distance":" 4.24","fl":"10","condition":"OK","Active":"TRUE","name":"Bombers`s village"}, // EVOLUCION: 65 65 65 65 65
           {"x":"-78","y":"55","distance":" 4.47","fl":"10","condition":"OK","Active":"TRUE","name":"Meeren`s village"}, // EVOLUCION: 12 12 12 12 12
-          {"x":"-75","y":"46","distance":" 5.10","fl":"10","condition":"OK","Active":"TRUE","name":"Jabberwocky`s village"}, // EVOLUCION: 8 8 8 8 8
           {"x":"-80","y":"47","distance":" 5.66","fl":"10","condition":"OK","Active":"TRUE","name":"01"}, // EVOLUCION: 13 13 13 13 13
           {"x":"-73","y":"46","distance":" 5.83","fl":"27","condition":"OK","Active":"TRUE","name":"Vaikis`s village"}, // EVOLUCION: 14 14 14 14 14
           {"x":"-82","y":"52","distance":" 6.08","fl":"12","condition":"OK","Active":"TRUE","name":"wangodango`s village"}, // EVOLUCION: 12 12 12 12 12
