@@ -1,7 +1,6 @@
 const coords_1 =
       [
           {"x":"-77","y":"53","distance":" 2.24","fl":"10","condition":"OK","Active":"TRUE","name":"Osada: Ptolemeusz"}, // EVOLUCION: 33 33 +1 32 32 32
-          {"x":"-74","y":"49","distance":" 2.83","fl":"10","condition":"OK","Active":"TRUE","name":"OliveLand Köyü"}, // EVOLUCION: 8 8 8 8 8
           {"x":"-79","y":"49","distance":" 3.61","fl":"10","condition":"OK","Active":"TRUE","name":"Crow Köyü"}, // EVOLUCION: 28 28 28 28 28
           {"x":"-73","y":"54","distance":" 4.24","fl":"10","condition":"OK","Active":"TRUE","name":"Bombers`s village"}, // EVOLUCION: 65 65 65 65 65
           {"x":"-78","y":"55","distance":" 4.47","fl":"10","condition":"OK","Active":"TRUE","name":"Meeren`s village"}, // EVOLUCION: 12 12 12 12 12
