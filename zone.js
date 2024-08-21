@@ -16,7 +16,6 @@ const coords_1 =
           {"x":"-68","y":"48","distance":" 8.54","fl":"10","condition":"OK","Active":"TRUE","name":"yyx`s village"}, // EVOLUCION: 8 8 8 8 8
           {"x":"-83","y":"56","distance":" 8.60","fl":"10","condition":"OK","Active":"TRUE","name":"ex300`s village"}, // EVOLUCION: 11 11 11 11 +11 0
           {"x":"-84","y":"55","distance":" 8.94","fl":"10","condition":"OK","Active":"TRUE","name":"قرية Mohamed"}, // EVOLUCION: 12 12 12 12 +12 0
-          {"x":"-67","y":"54","distance":" 9.49","fl":"10","condition":"OK","Active":"TRUE","name":"Jacyno`s village"}, // EVOLUCION: 8 8 8 8 8
           {"x":"-80","y":"60","distance":" 9.85","fl":"10","condition":"OK","Active":"TRUE","name":"Vikings Valhalla"}, // EVOLUCION: 15 15 15 15 +15 0
           {"x":"-72","y":"60","distance":" 9.85","fl":"10","condition":"OK","Active":"TRUE","name":"01"}, // EVOLUCION: 62 62 62 62 62
           {"x":"-77","y":"61","distance":"10.05","fl":"10","condition":"OK","Active":"TRUE","name":"Деревня Ааа"}, // EVOLUCION: 12 12 12 12 128 8 8
